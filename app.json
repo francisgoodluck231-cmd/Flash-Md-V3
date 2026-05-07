@@ -14,8 +14,8 @@
       "value": ".",
       "required": false
     },
-    "OWNER_NUMBER": {
-      "description": "Owner phone number (no + or country code)",
+    "OWNER_NUMBER": 
+      "description": "+2348094409627",
       "value": "",
       "required": false
     },
@@ -24,24 +24,24 @@
       "value": "",
       "required": false
     },
-    "SESSION": {
+    "SESSION": {eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUhLdEdaNGNIeElmaEh5ejFqWVE5S3NlaEs4akNUb0J5SkZVd2tndC8yMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT0NLSEJKYkJQY291ZmdCR29Ta0RWb2NQekRQamdybm1RRHBIQTNzMmlXdz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBS203bVhqcGFVUlBuc3Y1Zk1pT2xnRHc5KzJYZERkRmRuNVlRS1UzV0hVPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJYb2NxSlpJNmJXbkZHZ0F4eXdsV0czVWF4Yk5TZnV4bFlSV2JzTzQwS3c4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVCeGlnRDBYTDk5czkxYng4dkpwc0F6dmZ6M3BBRURhajdHSURUM0JwV0U9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVBandWaGlKQUpOSEd1WWZLR0NTRnovOThMQ0lUa0Y3MEdtQStMRERaMlE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUJYMktGTDR2S0tkTlJPcFo5cXFQM2ZBUmhlbnhob0J6alhpTHF3bFBuOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQXFrKzVzZkVhMmVoUG9KNXM4cVVVWWFGNmRzcFRoWlhrRHJNUE1VcXAyMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik05ZXZpdEwwM0k4UEllbjRtbkpidVM1ci9qUFVkM2ZXRkNBNm92YzB1azcvNWU1SGxlbld3OFpXMWRHQk8zR3VsRmVVdStzSUFqUjl3bmVyUmRTVmpRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTIsImFkdlNlY3JldEtleSI6ImVmYUhjUVcxbXdOSFhzMnpJVFZLTTdlOU02bHExOXNpMlhGWGZHSjFVSHc9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJyZWdpc3RlcmVkIjp0cnVlLCJwYWlyaW5nQ29kZSI6IjdaS1AxM0xNIiwibWUiOnsiaWQiOiIyMzQ4MDk0NDA5NjI3OjJAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiSnVsaWV0IiwibGlkIjoiMjQzODMxMzMzNjg0Mjc6MkBsaWQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0wrUDIrTUxFTkxaOHM4R0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InF3OFNnS0J5a1lycmNnYUNVZG1kMkxhbzE4ZjZ6ODRyNndvMHl3akpvV1U9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlF4R2dKdUtQL1pCL2JjRFFyQWZ5SStyRm5hdmp2ZTRDTnVFYjUyZ2FHR0k2MVN6QW1HNE91dzBrS0RISUpxZGFCdkRwZXZyT3FtYnVEVzV5NUNvOUNBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJHZkN4a3VWVThwdEozdFd1SVNjZk52azFqQkx3RVVjYkppM3BkZ1VHc2U3L3Y5VldaekhUcXV1MFpmUzUvY0JOYmtSYmltcHRHMTVEdVpqQ0lnaGdndz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzNDgwOTQ0MDk2Mjc6MkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJhc1BFb0NnY3BHSzYzSUdnbEhabmRpMnFOZkgrcy9PSytzS05Nc0l5YUZsIn19XSwicGxhdGZvcm0iOiJzbWJpIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQWtJQlFnUyJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NzgxNjcwMDAsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBQVpOIn0=
       "description": "put your FLASH-MD session here",
       "required": true
     },
     "TZ": {
       "description": "Timezone",
       "value": "Africa/Nairobi",
-      "required": false
+      "required": true
     },
     "ANTICALL": {
       "description": "Auto reject calls (on/off)",
-      "value": "off",
-      "required": false
+      "value": "on",
+      "required": true
     },
-    "ANTIDELETE": {
+    "ANTIDELETE": {on}
       "description": "Detect deleted messages (on/off)",
       "value": "on",
-      "required": false
+      "required":true 
     },
     "ANTIEDIT": {
       "description": "Detect edited messages (on/off)",
@@ -73,8 +73,8 @@
       "value": "recording",
       "required": false
     },
-    "USER_LID": {
-      "description": "Put your lid here",
+    "USER_LID": {2438313336842
+      "description": "2438313336842",
       "required": true
     }
   },
